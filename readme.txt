@@ -7,7 +7,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-For those poorly made wordpress themes which doesnot manages the scripts that loads your site.
+For those poorly made wordpress themes which doesnot manages the scripts that loads on your site (blog).
 
 == Description ==
 
